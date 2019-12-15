@@ -1,6 +1,6 @@
 # Jing-Portfolio
 
-This repository contains [Jing's data reports](https://jinginbj.github.io/jing-s-project-atLEDE/) made during LEDE program at Columbia Uni J-school. 
+This repository contains [Jing's final project](https://jinginbj.github.io/jing-s-project-atLEDE/) made for LEDE program at Columbia Uni J-school. 
 This is an independent project. All text and charts by Jing. 
 
 # Project introduction
