@@ -18,7 +18,9 @@ Most of data come from [World Bank's open data](https://data.worldbank.org/).
 
 [Elder support ratio of China](http://data.stats.gov.cn/easyquery.htm?cn=C01) -- The ratio of people age 65+ with people age 14-64
 
-[China's household debt to GDP ratio] (http://stats.bis.org/statx/srs/table/f3.1) Bank for International Settelments 
+[China's household debt to GDP ratio](http://stats.bis.org/statx/srs/table/f3.1) Bank for International Settelments
+
+
 
 # Charts and tools/functions
 
